@@ -2,12 +2,17 @@
 Performing analysis on Kickstarters. 
 ![Pivot Chart1](https://user-images.githubusercontent.com/101309010/158935655-18cf5014-567e-4e6c-8715-dc830521614f.png)
 ![PivotChart2_Line](https://user-images.githubusercontent.com/101309010/158935666-d2904801-7042-4bbb-b7ab-5031c5ffed10.png)
+
+
+
+
+
+
 #Kickstarting with Excel
 ##Overview of Project
 A comparison and overlook of different campaign outcomes in regards to launching dates and funding goals.
 ###Purpose
 ##Analysis and Challenges
-
 ###Analysis of Outcomes Based on Launch Date
 The data shows that the largest amount of successful shows occurred during the Summer. Especially in the months of May, June, and July.
 ###Analysis of Outcomes Based on Goals
